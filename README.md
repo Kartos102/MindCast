@@ -191,15 +191,6 @@ $ react-native run-ios
 - [Image-Resize](https://imageresize.org) - Resize the Images
 - [Amazon S3](https://aws.amazon.com/pt/s3/) - Storage Service
 
-## Contributing
-
-You can send how many PR's do you want, I'll be glad to analyse and accept them! And if you have any question about the project...
-
-Email-me: stenio.wagner1@gmail.com
-
-Connect with me at [LinkedIn](https://www.linkedin.com/in/steniowagner/)
-
-Thank you!
 
 ## License
 
